@@ -6,7 +6,7 @@ This is a simple Python application that utilizes the tkinter library for GUI de
 - Exit the application.
   
 # Installation
-1. Clone the repository to your local machine: git clone https://github.com/your-username/spy-cctv.git
+1. Clone the repository to your local machine: git clone https://github.com/vinitjethwa369/spy-cctv.git
 2. Ensure you have Python installed on your system. You can download it from python.org.
 3. Install the required dependencies using pip: pip install opencv-python-headless pillow pyttsx3
 
